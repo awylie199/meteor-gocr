@@ -7,3 +7,4 @@ Currently Meteor (1.2) crashes when compiling large javascript files with and wi
 -[Ecmascript](https://github.com/meteor/meteor/issues/5275)
 
 -[Large Files](https://github.com/meteor/meteor/issues/5474)
+
